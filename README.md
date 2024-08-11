@@ -1,6 +1,5 @@
-# LLM-project
+# 书生带你看奥运
 
-书生大模型实战营第3期学习笔记
-
+基于InternLM实现“书生带你看奥运“
 
 [实战营GitHub仓库](https://github.com/InternLM/Tutorial)
