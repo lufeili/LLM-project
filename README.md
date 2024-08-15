@@ -1,6 +1,7 @@
 # 书生带你看奥运
 ## 简介
-"书生带你看奥运"项目基于 InternLM2 大模型、RAG 技术、XTuner 微调技术、LMDeploy 部署工具，为用户提供及时、可靠、准确的奥运信息。本项目打造了一个全方位奥运信息平台，旨在为广大体育爱好者提供全新的奥运体验 ，不仅能追踪赛事动态，还能深入分析运动员表现。用AI大模型技术扮演一个虚拟的新闻发布官和赛事评论员。
+"书生带你看奥运"项目基于 InternLM2 大模型、RAG 技术、XTuner 微调技术、LMDeploy 部署工具，为用户提供及时、可靠、准确的奥运信息。
+本项目打造了一个全方位奥运信息平台，旨在为广大体育爱好者提供全新的奥运体验 ，不仅能追踪赛事动态，还能深入分析运动员表现。用AI大模型技术扮演一个虚拟的新闻发布官和赛事评论员。
 
 ## 架构图
 ![架构图](https://github.com/user-attachments/assets/ba33f7e1-3c87-4558-b603-ba774bbfa052)
@@ -78,7 +79,9 @@ ln -s /root/share/new_models/OpenGVLab/InternVL2-26B /root/models
 streamlit run app.py
 
 ```
-
+## 致谢
+感谢 上海人工智能实验室书生·浦语大模型实战营的培训和指导
+感谢 OpenXLab 对项目的算力支持
 
 
 [书生实战营GitHub仓库](https://github.com/InternLM/Tutorial)
