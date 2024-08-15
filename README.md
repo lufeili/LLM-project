@@ -1,5 +1,5 @@
 # 书生带你看奥运
-
+## 简介
 "书生带你看奥运"项目基于 InternLM2 大模型、RAG 技术、XTuner 微调技术、LMDeploy 部署工具，为用户提供及时、可靠、准确的奥运信息。本项目打造了一个全方位奥运信息平台，旨在为广大体育爱好者提供全新的奥运体验 ，不仅能追踪赛事动态，还能深入分析运动员表现。用AI大模型技术扮演一个虚拟的新闻发布官和赛事评论员。
 
 ## 架构图
@@ -60,8 +60,9 @@ unzip averaged_perceptron_tagger.zip
 
 ```
 
-### 把模型软连接出来
+### 下载模型
 
+下载模型，并建立软连接
 ```shell
 cd ~/model
 ln -s /root/share/new_models/Shanghai_AI_Laboratory/internlm2-chat-1_8b/ ./
