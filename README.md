@@ -9,6 +9,10 @@
 ![架构图](https://github.com/user-attachments/assets/ba33f7e1-3c87-4558-b603-ba774bbfa052)
 ## 应用场景图
 ![效果图](https://github.com/user-attachments/assets/6ee69e45-a774-4351-94d2-935c458b857b)
+
+##项目视频
+项目视频：https://www.bilibili.com/video/BV1SGeteMEF2/
+
 ## 配置环境
 
 ### 安装python 依赖包
