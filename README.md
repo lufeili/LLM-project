@@ -2,4 +2,5 @@
 
 "书生带你看奥运"项目基于 InternLM2 大模型、RAG 技术、XTuner 微调技术、LMDeploy 部署工具，为用户提供及时、可靠、准确的奥运信息。本项目打造了一个全方位奥运信息平台，旨在为广大体育爱好者提供全新的奥运体验 ，不仅能追踪赛事动态，还能深入分析运动员表现。用AI大模型技术扮演一个虚拟的新闻发布官和赛事评论员。
 
-[实战营GitHub仓库](https://github.com/InternLM/Tutorial)
+
+[书生实战营GitHub仓库](https://github.com/InternLM/Tutorial)
